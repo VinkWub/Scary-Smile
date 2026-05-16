@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Item
+  - Bottle
+  - Plaster
+  - Enermy
+  - Hit
+  - WayPoint
+  - Ghost
+  - Final_Point
+  - End_Point
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1686167351
+    locked: 0
+  - name: BG
+    uniqueID: 3381778023
+    locked: 0
+  - name: Item
+    uniqueID: 2048116561
+    locked: 0
+  - name: Player
+    uniqueID: 153166325
+    locked: 0
+  - name: Pole
+    uniqueID: 4110427059
+    locked: 0
+  - name: Car
+    uniqueID: 3347548991
+    locked: 0
+  - name: Black_BG
+    uniqueID: 1518381513
+    locked: 0
